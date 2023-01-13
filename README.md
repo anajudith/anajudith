@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Judith 👋
+### Olá! Eu sou a Ana Judith, desenvolvedora Front-End 👋
 
 
 
