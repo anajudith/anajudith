@@ -1,12 +1,18 @@
-### Olá! Eu sou a Ana Judith, desenvolvedora Front-End 👋
 
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/anajudith/anajudith/blob/main/AVATAR.jpg">
 
+</br>
+</br>
 
-  <h3>Tecnologias que uso no meu dia a dia</h3>
-  
-  
-  ##
- 
+## Olá! Eu sou a Ana Judith, desenvolvedora Front-End 👋
+
+Tenho 21 anos, moro em Ibirité/MG e sou apaixonada por programação e felinos! Entrei no universo da programação em 2020, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
+ ### 🖥️ Tecnologias e Ferramentas que uso no meu dia a dia: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
