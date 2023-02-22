@@ -1,10 +1,5 @@
 <img align="right" width="130px" style="margin-top:-20px" src="https://github.com/anajudith/anajudith/blob/main/avatar.png">
 
-</br>
-</br>
-
-
-
 
 </br>
 </br>
