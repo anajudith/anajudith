@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/anajudith/anajudith/blob/main/AVATAR1.jpg">
 
 </br>
 </br>
@@ -53,9 +53,12 @@ Tenho 21 anos, moro em Ibirité/MG e sou apaixonada por programação e felinos!
 
 
 ##
-<p align="center">
+<div align="center">
+ <p align="center">
 <a href="https://github.com/anajudith">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anajudith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anajudith&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+ 
+ </div>
