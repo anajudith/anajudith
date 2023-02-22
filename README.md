@@ -1,5 +1,15 @@
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
 
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/anajudith/anajudith/blob/main/AVATAR.jpg">
+</br>
+</br>
+
+<div dsplay="inline-block">
+ <h1 align="left">Ana Judith</h1>
+</div>
+
+
+
+
 
 </br>
 </br>
@@ -12,32 +22,40 @@ Tenho 21 anos, moro em Ibirité/MG e sou apaixonada por programação e felinos!
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
- ### 🖥️ Tecnologias e Ferramentas que uso no meu dia a dia: 
+### 🖥️ Tecnologias e Ferramentas que uso no meu dia a dia: 
+<img width="300px" align="right" src="https://github.com/anajudith/anajudith/blob/main/AVATAR2.jpg">
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title = "TYPESCRIPT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title = "C#"/></code>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">📚 Tenho estudado React e aprimorando minhas habilidades adquiridas ao longo da minha carreira;</p>
+ <p align="left">📷 Compartilho meus projetos, dicas de estudo e tecnologia no <a href="https://www.linkedin.com/in/ana-judith-7955031ab/">Linkedin</a> e no <a href="https://github.com/anajudith">GitHub</a>. Segue lá e vem bater um papo!</p>
 </div>
-  
-  ##
- 
-<div> 
+
+
+
+</br>
+
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/ana-judith-7955031ab/) (Adoro conversar sobre tecnologia, oportunidades e conhecer pessoas novas 🥰) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+
+</br>
+
+<a href="https://www.linkedin.com/in/ana-judith-7955031ab/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
  <a href = "mailto:ana-judth@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-judith-7955031ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
-  
-</div>
 
 
-- 🔭 Hoje trabalho com tecnologias front-end
-- 🌱 No momento estou estudando o framework React
-- 🤔 Estou procurando ajuda com melhores práticas de programação
-- 📫 Contate-me no email: ana-judth@hotmail.com
-- 😄 Pronomes: ela/dela
-- 📖 Lendo: Estrutura de dados e algoritmos com JavaScript - Loiane Groner
+##
+<p align="center">
+<a href="https://github.com/anajudith">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anajudith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anajudith&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
