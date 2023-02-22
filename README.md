@@ -23,10 +23,9 @@ Tenho 21 anos, moro em Ibirité/MG e sou apaixonada por programação e felinos!
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas que uso no meu dia a dia: 
-<img width="300px" align="right" src="https://github.com/anajudith/anajudith/blob/main/AVATAR2.jpg">
+<img right="70px" width="130px" align="right" src="https://github.com/anajudith/anajudith/blob/main/avatar2.png" />
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title = "TYPESCRIPT"/></code>![Assunto 2](https://user-images.githubusercontent.com/72258348/220754958-ca4c3e8a-2178-42f2-8a4f-bc4ce07e8963.png)
-
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title = "TYPESCRIPT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "REACT"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS"/></code>
@@ -53,11 +52,13 @@ Tenho 21 anos, moro em Ibirité/MG e sou apaixonada por programação e felinos!
  <a href = "mailto:ana-judth@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
+ 
 ##
  <p align="center">
 <a href="https://github.com/anajudith">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anajudith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anajudith&layout=compact&langs_count=8&theme=algolia"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anajudith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anajudith&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+ 
  
