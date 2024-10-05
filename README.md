@@ -6,7 +6,7 @@
 
 ## Olá! Eu sou a Ana Judith, desenvolvedora Front-End 👋
 
-Tenho 21 anos, moro em Ibirité/MG e sou apaixonada por programação e felinos! Entrei no universo da programação em 2020, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 23 anos, moro em Ibirité/MG, sou formada em Sistemas de informação, pós graduação em andamento na especialização de Arquitetura de software distribuídos, sou apaixonada por programação e felinos! Entrei no universo da programação em 2020, caçadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
@@ -26,7 +26,7 @@ Tenho 21 anos, moro em Ibirité/MG e sou apaixonada por programação e felinos!
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 Tenho estudado React e aprimorando minhas habilidades adquiridas ao longo da minha carreira;</p>
+ <p align="left">📚 Tenho estudado Arquitetura de sistemas distribuidos e aprimorando minhas habilidades adquiridas ao longo da minha carreira;</p>
  <p align="left">📷 Compartilho meus projetos, dicas de estudo e tecnologia no <a href="https://www.linkedin.com/in/ana-judith-7955031ab/">Linkedin</a> e no <a href="https://github.com/anajudith">GitHub</a>. Segue lá e vem bater um papo!</p>
 </div>
 
